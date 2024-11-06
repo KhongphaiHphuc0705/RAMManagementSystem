@@ -1,0 +1,9 @@
+RAM1_001    LPDDR5                5600      Samsung          20        2023-06-20      true
+RAM1_002    LPDDR5                4800     Kingston          15        2023-04-11      true
+RAM2_001      DDR5                4800      Corsair          25        2022-05-31      true
+RAM2_002      DDR5                5600      G.Skill          10        2023-02-13     false
+RAM3_001    LPDDR4                4200      Crucial          33        2022-09-07      true
+RAM4_001      DDR4                3200        ADATA          40        2021-12-21      true
+RAM4_002      DDR4                3600       HyperX          50        2022-10-06      true
+RAM5_001    LPDDR3                2400       Micron          24        2021-01-15     false
+RAM5_002      DDR4                3072       HyperX          18        2022-11-14     false
